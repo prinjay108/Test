@@ -1,0 +1,6 @@
+## virtual enviroment
+venv/
+## django specific file
+*.pyc
+db.sqlite3
+
